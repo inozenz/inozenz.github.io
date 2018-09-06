@@ -30,7 +30,7 @@
 		$size: _size(border-width) * 1.25;
 
 		&:before {
-			color: _palette(bg);
+			color: _palette(bgg);
 			text-shadow: $size 0px 0px _palette(border),
 						($size * -1) 0px 0px _palette(border),
 						0px $size 0px _palette(border),

@@ -14,7 +14,7 @@
 			'transform #{_duration(main)} ease'
 		));
 		@include padding(4.5em, 3em);
-		background: _palette(bg);
+		background: _palette(bgg);
 		border-radius: _size(border-radius);
 		cursor: default;
 		max-width: 100%;
@@ -32,7 +32,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em _palette(bg);
+				box-shadow: 0 0 0 1.5em _palette(bgg);
 			}
 
 			&:before {
